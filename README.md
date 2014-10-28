@@ -1,4 +1,4 @@
-List View App (App Designer Ready)
+List View App
 ==================
 This template can be used for simple list view application that has a main view with scrollable list and detail view for each list item, this template can be used for creating applications similar to Mail app, Messages app or Twitter* app.
 
@@ -8,7 +8,7 @@ You can use Intel AppFramework to create __mobile web apps__ or create __hybrid 
 
 App Framework has UI themes which look and feel similar to _iPhone_, _iPad_, _Android_, _Windows Phone_, _Blackberry 10_ and _Tizen_, the UI theme will be automatically applied by default when opened on these devices. Notice the screenshots below, the app code is same but the look and feel changes to match the device's native style.
 
-![ListViewApp](https://raw.github.com/gomobile/template-list-view-ad/master/screenshot.png)
+![ListViewApp](https://raw.github.com/gomobile/template-list-view/master/screenshot.png)
 
 Intel(R) XDK
 -------------------------------------------
