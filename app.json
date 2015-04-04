@@ -1,14 +1,22 @@
 {
-"repoName":"template-list-view-ad",
-"title":"List View App (App Designer)",
-"tooltip":"[App Designer Ready] Use this template to provide a simple list view app that has a main view with scrollable list and detail view for each list item. For example, create a Mail app, Messages app or Twitter* app.",
-"description":"[App Designer Ready] Use this template to provide a simple list view app that has a main view with scrollable list and detail view for each list item. For example, create a Mail app, Messages app or Twitter* app.",
-"articleUrl":"https://software.intel.com/en-us/xdk/docs/templates-to-get-started-with-xdk-app-development",
-"visible" : "true",
-"sortWeight":"0.6",
-"type":"appdesigner",
-"keywords":["App Designer"],
-"highlights" : ["App Designer"],
-"relationship":"list view",
-"projectTypeName": "com.intel.xdk.projecttype.webapp"
+   "visible" : true,
+   "tooltip" : "[App Designer Ready] Use this template to provide a simple list view app that has a main view with scrollable list and detail view for each list item. For example, create a Mail app, Messages app or Twitter* app.",
+   "description" : "[App Designer Ready] Use this template to provide a simple list view app that has a main view with scrollable list and detail view for each list item. For example, create a Mail app, Messages app or Twitter* app.",
+   "relName" : null,
+   "appPreview" : false,
+   "title" : "List View App (App Designer)",
+   "appName" : null,
+   "keywords" : [
+      "App Designer"
+   ],
+   "repoName" : "template-list-view-ad",
+   "type" : "appdesigner",
+   "sortWeight" : "0.6",
+   "projectTypeName" : "com.intel.xdk.projecttype.webapp",
+   "articleUrl" : "https://software.intel.com/en-us/xdk/docs/templates-to-get-started-with-xdk-app-development",
+   "highlights" : [
+      "App Designer"
+   ],
+   "mobile" : false,
+   "relationship" : "list view"
 }
