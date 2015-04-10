@@ -1,21 +1,22 @@
 {
+   "visible" : true,
+   "tooltip" : "[App Designer Ready] Use this template to provide a simple list view app that has a main view with scrollable list and detail view for each list item. For example, create a Mail app, Messages app or Twitter* app.",
+   "description" : "[App Designer Ready] Use this template to provide a simple list view app that has a main view with scrollable list and detail view for each list item. For example, create a Mail app, Messages app or Twitter* app.",
+   "relName" : null,
+   "appPreview" : false,
+   "title" : "List View App (App Designer)",
+   "appName" : null,
+   "keywords" : [
+      "App Designer"
+   ],
+   "repoName" : "template-list-view-ad",
    "type" : "appdesigner",
    "sortWeight" : "0.6",
-   "visible" : "true",
-   "tooltip" : "[App Designer Ready] Use this template to provide a simple list view app that has a main view with scrollable list and detail view for each list item. For example, create a Mail app, Messages app or Twitter* app.",
-   "repoName" : "template-list-view-ad",
-   "relName" : null,
-   "title" : "List View App (App Designer)",
-   "articleUrl" : "http://software.intel.com/en-us/html5/articles/templates-to-get-started-with-html5-mobile-app-development",
-   "appPreview" : null,
-   "relationship" : "list view",
+   "projectTypeName" : "com.intel.xdk.projecttype.webapp",
+   "articleUrl" : "https://software.intel.com/en-us/xdk/docs/templates-to-get-started-with-xdk-app-development",
    "highlights" : [
       "App Designer"
    ],
-   "appName" : null,
-   "projectTypeName" : "com.intel.xdk.projecttype.webapp",
-   "description" : "[App Designer Ready] Use this template to provide a simple list view app that has a main view with scrollable list and detail view for each list item. For example, create a Mail app, Messages app or Twitter* app.",
-   "keywords" : [
-      "App Designer"
-   ]
+   "mobile" : false,
+   "relationship" : "list view"
 }
